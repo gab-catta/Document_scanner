@@ -45,6 +45,7 @@ If a file named `scanned_originalname.png` already exists, the script will save 
 
 - Ensure the document is well-lit and isolated from the background.
 - Make sure all four corners are visible in the photo.
-- Make sure that the document doesn't is not wrinkled.  
+- Make sure that the document doesn't is not wrinkled.   
+  
 If the scan is not satisfying enough, try retaking the photo or adjusting the lighting.
 
