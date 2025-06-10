@@ -29,7 +29,7 @@ pip install opencv-python scikit-image imutils matplotlib numpy
 Run the script from the command line, providing the path to your image:
 
 ```sh
-python scanner.py -i path/to/your/image.jpg
+python scanner.py --image path/to/your/image.jpg
 ```
 
 The script will:
